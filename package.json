@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/CliffCrerar/create-site-map#readme",
   "dependencies": {
-    "jsdom": "^15.2.1"
+    "html-to-json": "^0.6.0",
+    "jsdom": "^15.2.1",
+    "jsontoxml": "^1.0.1"
   }
 }
