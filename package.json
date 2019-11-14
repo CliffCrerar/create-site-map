@@ -1,0 +1,22 @@
+{
+  "name": "create-site-map",
+  "version": "1.0.0",
+  "description": "create site map from url",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CliffCrerar/create-site-map.git"
+  },
+  "author": "Cliff Crerar (cliff.crerar@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CliffCrerar/create-site-map/issues"
+  },
+  "homepage": "https://github.com/CliffCrerar/create-site-map#readme",
+  "dependencies": {
+    "jsdom": "^15.2.1"
+  }
+}
